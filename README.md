@@ -3,8 +3,8 @@
 <img src="/image.jpg" width="1000" height="300" />
 <div align="justify">
 
-In this work, a binary classification model was designed that processes individual word with natural language processing methodologies to predict the presence of sarcasm in News Headlines.<br />
-**NLP Terminologies**<br /><br />
+In this work, a binary classification model was designed that processes individual word with natural language processing methodologies to predict the presence of sarcasm in News Headlines.<br /><br />
+**NLP Terminologies**<br />
 •	Tokenization is essentially splitting a phrase, sentence, paragraph, or an entire text document into smaller units, such as individual words or terms. Each of these smaller units are called tokens.<br />
 •	When we pre-process the text data, not all the input sentences are of same length, some of the sentences are longer or shorter. The solution to this problem of different lengths of inputs is padding with zero to a fixed length.<br />
 padding=’post’: add the zeros at the end of the sequence to make the samples of the same size.<br />
